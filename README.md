@@ -1,6 +1,9 @@
 # Ecommerce-Sales-Analysis
 This project is a comprehensive analysis of an ecommerce dataset using Microsoft Excel. It explores sales trends, customer behavior, product performance, and regional performance to derive actionable business insights.
 
+<img src="Ecommerce img.jpg" width="2500" height="600"/>&nbsp;
+
+
 ## 📁 Project Overview
 
 The objective of this project is to:
@@ -55,5 +58,5 @@ Some key findings from the analysis include:
 
 ## 📊 Dashboard
 
-<img src="Images/FlipMart Sales Dashboard.png" width="2500" height="600"/>&nbsp;
+<img src="Dashboard.png" width="2500" height="600"/>&nbsp;
 
